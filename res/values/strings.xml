@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LocalBroadcastSample</string>
+    <string name="menu_settings">Settings</string>
+    
+    <string name="player_play">Play</string>
+    <string name="player_stop">Stop</string>
+    <string name="receiver">system broadcastreceiver</string>
+
+</resources>
